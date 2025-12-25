@@ -1,118 +1,157 @@
-<!--
-Credits and references used in this README:
-
-
-1) Layout ideas and section inspiration:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
-
-
-2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
-
-
-3) GitHub stats card:
-   https://github.com/anuraghazra/github-readme-stats
--->
-
-
 # 👨‍💻 Dev Patel
-**`Full-Stack Software Developer (MERN | Blockchain | AI-OCR)`**  
+*Full-Stack Software Developer (AI Engineer | MERN | Blockchain)*
 
+<p align="center">
+  <a href="https://dev101portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:dev.2511p@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/deevvv25" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dev-eloper-365" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-![GitHub followers](https://img.shields.io/github/followers/dev-eloper-365?style=flat&color=gray)
-![GitHub stars](https://img.shields.io/github/stars/dev-eloper-365?affiliations=OWNER&style=flat&color=gray)
-![Profile views](https://komarev.com/ghpvc/?username=dev-eloper-365&color=gray)
+## 🚀 About Me
+- Computer Engineering undergraduate at Pandit Deendayal Energy University (PDEU)
+- Strong in system architecture and scalable backend design
+- Experienced in shipping production-ready products fast
+- Comfortable owning features end-to-end
 
+## 🏆 Achievements
+- 🥇 **SIH 2025 Finalist**
+- 🥈 **DICT Tic-Tac-Toe Hackathon – Runner-up**  
+- ✅ **SIH 2024 College-Level Shortlisted**
 
-## About Me
-- Computer Engineering undergraduate at Pandit Deendayal Energy University (PDEU).
-- Full-stack developer with experience building production-ready systems.
-- Worked on WhatsApp automation, OCR pipelines, blockchain-backed systems, and CI/CD.
-- SIH 2024 College-Level Finalist and hackathon winner.
+## 💻 Tech Stack
 
+### Core Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,nextjs,html,css,mongodb,mysql,postgres,express,django,fastapi,redis,firebase,vite&theme=light)](https://skillicons.dev)
 
-## Skill stack
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,nextjs,express,python,fastapi,mongodb,mysql,postgres,aws,docker,git,github,linux,figma&theme=light)](https://skillicons.dev)
+### AI & ML Tools
+[![AI Tools](https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light)](https://skillicons.dev)
+<a href="https://ai.google.dev/gemini-api" target="_blank">
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="48" height="48"/>
+</a>
+<a href="https://www.langchain.com" target="_blank">
+  <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%231C3C3C" alt="LangChain" width="48" height="48"/>
+</a>
 
+### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=cpp,c,go,bash,powershell&theme=light)](https://skillicons.dev)
 
-![MERN](https://img.shields.io/badge/MERN-Stack-black)
-![Blockchain](https://img.shields.io/badge/Blockchain-Enabled-black)
-![OCR](https://img.shields.io/badge/OCR-AI--Powered-black)
-![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-black)
+### DevOps & Cloud
+[![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github,vercel,linux,nginx&theme=light)](https://skillicons.dev)
 
+### Design & Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,postman,npm,figma&theme=light)](https://skillicons.dev)
+<a href="https://cursor.sh" target="_blank">
+  <img src="https://cursor.sh/brand/icon.svg" alt="Cursor" width="48" height="48"/>
+</a>
+<a href="https://github.com/features/copilot" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="GitHub Copilot" width="48" height="48"/>
+</a>
 
-**Also comfortable with**: SQL, JWT authentication, CI/CD pipelines (Vercel, Render), OCR systems (Google Vision, Tesseract, EasyOCR), basic DevOps and cloud deployments.
+### Specializations
+![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-Stack-00D084?style=for-the-badge&logo=mongodb&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-CI%2FCD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-Enabled-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
+**Also comfortable with:**  
+SQL · JWT Authentication · CI/CD Pipelines (Vercel, Render) · Cloud Deployments · Backend Performance Optimization · RESTful APIs · GraphQL · Socket.io · WebSockets
 
----
-
-
-## Projects - showcase
-
+<!--
+## 🎯 Projects – Showcase
 
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="INSERT HERE">
-        <img src="INSERT HERE"
-             alt="Sudarshan Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="INSERT HERE" style="width:100%; height:200px; object-fit:cover; border-radius:8px;" />
       </a>
       <br/>
-      <b>Sudarshan</b><br/>
-      <sub>Tamper-proof Aadhaar verification system using Blockchain and AI-based OCR.</sub><br/>
-      🔗 <a href="INSERT HERE">Repo</a>
+      <b>🔐 Sudarshan</b><br/>
+      <sub>Tamper-proof Aadhaar verification system using Blockchain and AI.</sub><br/>
+      🔗 <a href="INSERT HERE">Repo</a><br/>
       <br/>
-      <sub>Tags: Blockchain, OCR, AI, MERN</sub>
+      <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=ai&logoColor=white" />
+      <img src="https://img.shields.io/badge/MERN-00D084?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
     <td align="center" width="33%">
       <a href="INSERT HERE">
-        <img src="INSERT HERE"
-             alt="BillSwift Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="INSERT HERE" style="width:100%; height:200px; object-fit:cover; border-radius:8px;" />
       </a>
       <br/>
-      <b>BillSwift</b><br/>
-      <sub>Automated invoice generation and real-time delivery via WhatsApp and SMS.</sub><br/>
-      🔗 <a href="INSERT HERE">Repo</a>
+      <b>📄 BillSwift</b><br/>
+      <sub>Automated invoicing with real-time WhatsApp & SMS delivery.</sub><br/>
+      🔗 <a href="INSERT HERE">Repo</a><br/>
       <br/>
-      <sub>Tags: MERN, WhatsApp Automation, CI/CD</sub>
+      <img src="https://img.shields.io/badge/MERN-00D084?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Automation-326CE5?style=flat-square&logo=automationdirect&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
     </td>
     <td align="center" width="33%">
       <a href="INSERT HERE">
-        <img src="INSERT HERE"
-             alt="TripEase Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="INSERT HERE" style="width:100%; height:200px; object-fit:cover; border-radius:8px;" />
       </a>
       <br/>
-      <b>TripEase</b><br/>
-      <sub>AI-powered travel planner chatbot with voice commands and calendar integration.</sub><br/>
-      🔗 <a href="INSERT HERE">Repo</a>
+      <b>✈️ TripEase</b><br/>
+      <sub>AI-powered travel planner chatbot.</sub><br/>
+      🔗 <a href="INSERT HERE">Repo</a><br/>
       <br/>
-      <sub>Tags: AI, JWT, MERN, Groq API</sub>
+      <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=ai&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/MERN-00D084?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
 </table>
+-->
 
+## 📊 GitHub Activity
 
----
+<p align="center">
+  <a href="https://github.com/dev-eloper-365">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-eloper-365&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/dev-eloper-365">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-eloper-365&show_icons=true&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
 
-## Stats
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-eloper-365&show_icons=true&theme=gruvbox&hide_border=true)
+## 🔗 Connect With Me
 
+<p align="center">
+  <a href="https://dev101portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:dev.2511p@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/deevvv25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/dev-eloper-365" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-eloper-365&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
-
-## Links
-- [**Portfolio**](INSERT HERE)
-- [**Contact**](mailto:dev.2511p@gmail.com)
-
-
-<a href="INSERT HERE" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://github.com/dev-eloper-365" target="blank">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
+<p align="center">
+  ⭐️ From <a href="https://github.com/dev-eloper-365">Dev Patel</a>
+</p>
