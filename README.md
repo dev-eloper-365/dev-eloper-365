@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## 🚀 About Me
+##  About Me
 - Computer Engineering undergraduate at Pandit Deendayal Energy University (PDEU)
 - Strong in system architecture and scalable backend design
 - Experienced in shipping production-ready products fast
