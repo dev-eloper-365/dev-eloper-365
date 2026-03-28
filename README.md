@@ -1,4 +1,4 @@
-# 👨‍💻 Dev Patel
+# Dev Patel
 *Full-Stack Software Developer (AI Engineer | MERN | Blockchain)*
 
 <p align="center">
@@ -16,18 +16,18 @@
   </a>
 </p>
 
-##  About Me
+## About Me
 - Computer Engineering undergraduate at Pandit Deendayal Energy University (PDEU)
 - Strong in system architecture and scalable backend design
 - Experienced in shipping production-ready products fast
 - Comfortable owning features end-to-end
 
-## 🏆 Achievements
+## Achievements
 - 🥇 **SIH 2025 Finalist**
 - 🥈 **DICT Tic-Tac-Toe Hackathon – Runner-up**  
 - ✅ **SIH 2024 College-Level Shortlisted**
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Core Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,react,nodejs,nextjs,html,css,mongodb,mysql,postgres,express,django,fastapi,redis,firebase,vite&theme=light)](https://skillicons.dev)
@@ -113,7 +113,7 @@ SQL · JWT Authentication · CI/CD Pipelines (Vercel, Render) · Cloud Deploymen
 </table>
 -->
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/dev-eloper-365">
@@ -153,5 +153,5 @@ SQL · JWT Authentication · CI/CD Pipelines (Vercel, Render) · Cloud Deploymen
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/dev-eloper-365">Dev Patel</a>
+  From <a href="https://github.com/dev-eloper-365">Dev Patel</a>
 </p>
